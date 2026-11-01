@@ -1,1 +1,5 @@
-ffmpeg
+
+streamlit
+pydub
+requests
+audioop-lts
