@@ -68,8 +68,8 @@ if srt_file:
         language = st.radio("৩) অনুবাদের ভাষা নির্বাচন করুন", ["বাংলা", "English"], horizontal=True)
         if language == "বাংলা":
             voice_options = {
-                "বাংলা নারী — সোফিয়া": "bn-BD-NabanitaNeural",
-                "বাংলা পুরুষ — প্রদীপ": "bn-BD-PradeepNeural",
+                "বাংলা নারী — সুমাইয়া এশা": "bn-BD-NabanitaNeural",
+                "বাংলা পুরুষ — ফয়সাল আহম্মেদ": "bn-BD-PradeepNeural",
                 "বাংলা (ভারত) — নারী": "bn-IN-TanishaaNeural",
                 "বাংলা (ভারত) — পুরুষ": "bn-IN-BashkarNeural",
             }
